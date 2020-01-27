@@ -14,7 +14,7 @@ Instructions:
 
 -------------------------------------------------------------------------------
 
-Technologies Leveraged 
+Technologies Leveraged:
 * HTML
 * CSS
 * JavaScript
