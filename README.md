@@ -15,7 +15,7 @@ Instructions:
 
 Technologies Leveraged 
 * HTML
-2. CSS
-3. JavaScript
-4. Node.js
-5. React
+* CSS
+* JavaScript
+* Node.js
+* React
